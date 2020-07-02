@@ -9,7 +9,7 @@ vue2.x + vuex + vue-router + webpack + ES6/7 + axios + elementUI + 阿里图标i
 #### 效果图
 
 ![image](https://github.com/ly97721/vue-element-admin/blob/master/screenshots/%E5%93%81%E7%B1%BB%E7%AE%A1%E7%90%86.png)
-![image](图片的网络地址)
+![image](https://github.com/ly97721/vue-element-admin/blob/master/screenshots/%E9%A6%96%E9%A1%B5-%E5%9B%BE%E8%A1%A8%E7%AE%A1%E7%90%86.png)
 ![image](图片的网络地址)
 ![image](图片的网络地址)
 
