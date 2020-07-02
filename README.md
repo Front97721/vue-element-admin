@@ -15,7 +15,6 @@ vue2.x + vuex + vue-router + webpack + ES6/7 + axios + elementUI + 阿里图标i
 
 >  开发环境 win 10  Chrome 84.0.4136.7
 
-
 #### 强调
 
 项目请求具有默认假数据，例如：
