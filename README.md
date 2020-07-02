@@ -5,6 +5,10 @@
 #### 技术栈
 vue2.x + vuex + vue-router + webpack + ES6/7 + axios + elementUI + 阿里图标iconfont + stylus
 
+#### 效果图
+![](http://i1.piimg.com/588926/d1cb3dda0bdf8cd1.png)
+![](http://i1.piimg.com/588926/d1cb3dda0bdf8cd1.png)
+
 #### 说明
 
 >  本项目主要用于vue2.x 架构一个后台管理平台项目
