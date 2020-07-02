@@ -6,8 +6,7 @@
 vue2.x + vuex + vue-router + webpack + ES6/7 + axios + elementUI + 阿里图标iconfont + stylus
 
 #### 效果图
-![](http://i1.piimg.com/588926/d1cb3dda0bdf8cd1.png)
-![](http://i1.piimg.com/588926/d1cb3dda0bdf8cd1.png)
+![订单](http://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=MarkDown%E8%AF%AD%E6%B3%95&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=2946190151,774975054&os=2861789354,3919387423&simid=3286892296,150299678&pn=14&rn=1&di=1650&ln=851&fr=&fmq=1593676229759_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=http%3A%2F%2Fimages2015.cnblogs.com%2Fblog%2F600165%2F201701%2F600165-20170121165256359-1045755089.png&rpstart=0&rpnum=0&adpicid=0&force=undefined ''杀杀杀'')
 
 #### 说明
 
