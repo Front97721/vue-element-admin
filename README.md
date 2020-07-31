@@ -10,6 +10,18 @@ vue2.x + vuex + vue-router + webpack + ES6/7 + axios + elementUI + 阿里图标i
 
 ![image](https://i.loli.net/2020/07/31/prcmJbMeQ7Fz49B.png)
 
+![image](https://i.loli.net/2020/07/31/BwlGEhqY3K5u2Xj.png)
+
+![image](https://i.loli.net/2020/07/31/TojAerm7ulGHP9F.png)
+
+![image](https://i.loli.net/2020/07/31/iItZOD5JWM1adSG.png)
+
+![image](https://i.loli.net/2020/07/31/QjrgJsXGC5h9fn4.png)
+
+![image](https://i.loli.net/2020/07/31/ZUJcEwM2rPC8bln.png)
+
+![image](https://i.loli.net/2020/07/31/49B7qlEGZoNVXrU.png)
+
 #### 说明
 
 >  本项目主要用于vue2.x 架构一个后台管理平台项目
